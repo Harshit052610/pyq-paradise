@@ -73,10 +73,12 @@ app.use((req, res, next) => {
     {
       port: PORT,
       host: "0.0.0.0",
-      reusePort: true,
+      // reusePort: true, // Removed as it caused ENOTSUP error
     },
     () => {
       log(`Server running on port ${PORT}`);
     }
   );
 })();
+
+export default app;

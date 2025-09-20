@@ -219,7 +219,7 @@ export default function Home() {
                   <div className="w-6 h-6 glassmorphism rounded-lg flex items-center justify-center">
                     <GraduationCap className="w-4 h-4" data-testid="logo-icon" />
                   </div>
-                  <h1 className="text-lg font-bold" data-testid="logo-text">EduSolve</h1>
+                  <h1 className="text-lg font-bold" data-testid="logo-text">PYQ PARADISE</h1>
                 </div>
                 
                 <div className="hidden md:flex items-center space-x-4">
@@ -490,10 +490,10 @@ export default function Home() {
                   <div className="w-10 h-10 glassmorphism rounded-xl flex items-center justify-center">
                     <GraduationCap className="w-6 h-6" />
                   </div>
-                  <span className="text-xl font-bold">EduSolve</span>
+                  <span className="text-xl font-bold">PYQ PARADISE</span>
                 </div>
                 <div className="text-center text-gray-200" data-testid="footer-copyright">
-                  <p>&copy; 2024 EduSolve. Empowering students with AI-powered education.</p>
+                  <p>&copy; 2025 PYQ PARADISE. Get Your PYQ paper Solution in Seconds.</p>
                   <p className="text-sm mt-2 opacity-75" data-testid="developer-credits">
                     Developed by Harshit and Bhavesh
                   </p>

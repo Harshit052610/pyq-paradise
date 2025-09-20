@@ -1,4 +1,4 @@
-# API Alternatives for EduSolve Solution Generation
+# API Alternatives for PYQ PARADISE Solution Generation
 
 ## Current Implementation: Google Gemini API
 
